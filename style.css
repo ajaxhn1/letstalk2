@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.brochure {
+  border: 6px solid #fad7cb;
+  width: 800px;
+  font-family: Helvetica;
+  margin: 0 auto;
+  margin-top: 20px;
+  position: relative;
+}
+
+.main-heading {
+  background-color: #eaf2fa;
+  padding: 10px;
+  color: #4e4542;
+  text-align: center;
+}
+
+.intro {
+  padding: 25px;
+  color: #504c4b;
+  font-family: sans-serif;
+}
+
+.russian {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.cost {
+  text-transform: uppercase;
+  margin: 2px;
+  margin-bottom: 5px;
+  margin-top: 20px;
+  text-align: center;
+  color: #463a36;
+  background-color: #eaf2fa;
+  width: 100px;
+  text-align: center;
+  margin: auto;
+}
+
+.para {
+  text-align: center;
+  margin: 2px;
+  margin-bottom: 30px;
+}
+
+.insta {
+  text-align: center;
+  padding: 10px;
+}
+
+.list {
+  margin-left: 20px;
+  color: #4b4847;
+  background-color: #fff8f5;
+  line-height: 20px;
+  font-family: serif;
+  margin-bottom: 30px;
+}
+
+.social {
+  border: none;
+  text-transform: uppercase;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #5bc0b3;
+  cursor: pointer;
+  margin-bottom: 8px;
+  margin-left: 10px;
+  padding: 15px;
+}
+
+.social:hover {
+  color: #463a36;
+  background-color: #ffbca4;
+
+}
+
+h2 {
+  color: #463a36;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+.crazy-buttons {
+  text-align: center;
+}
+
+.what {
+  margin-bottom: 20px;
+  margin-top: 40px;
+  margin-left: 15px;
+}
+
+.call {
+  background-color: #5bc085;
+  color: #ffffff;
+  font-size: 15px;
+  text-transform: uppercase;
+  padding:7px 7px;
+  display: inline-block;
+  position:absolute;
+  top:-17px;
+  left:-35px;
+  letter-spacing: 1px;
+
